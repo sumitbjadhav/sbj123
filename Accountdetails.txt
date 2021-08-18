@@ -1,0 +1,7 @@
+Account no:12
+your name:sumit
+Mob no:7757840105
+Adhar NO:125478963352
+Gender:male
+Age:24
+Balance12000.0
